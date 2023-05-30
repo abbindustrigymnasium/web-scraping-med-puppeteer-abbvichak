@@ -1,4 +1,4 @@
-### Motivational Quotes Web Scraper
+# Motivational Quotes Web Scraper
 
 Motivational Quotes Web Scraper is a project dedicated to get you more motivated in your daily life. It scrapes a website for 200 motivational quotes. The Quotes are then hosted on an Express API, The website, built with Nuxt 3 and Tailwind CSS, allows users to interact with the data by getting a random quote by pressing a button and if that is not enough you can also view all the quotes in the "Quotes" page.
 
@@ -11,13 +11,13 @@ Prerequisites
 
 ## Usage
 
-# Before using the Motivational Web Scraper, ensure you have the following:
+### Before using the Motivational Web Scraper, ensure you have the following:
 
 - Node.js installed on your system
 - Internet connectivity to access shopify website
 - Getting Started
 
-# To get started with the Motivational Web Scraper, follow these steps:
+### To get started with the Motivational Web Scraper, follow these steps:
 
 1. Clone the repository to your local machine
 
